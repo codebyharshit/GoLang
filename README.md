@@ -45,8 +45,6 @@ algo_trading/
 └── config/
 └── dbconfig.go
 
-kotlin
-Copy code
 
 ## Setup Instructions
 
